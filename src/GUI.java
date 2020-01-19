@@ -78,6 +78,9 @@ public class GUI extends JFrame {
         g.gridwidth=1;
         g.fill=GridBagConstraints.HORIZONTAL;
         back.add(lblCompany,g);
+
+        //TODO new
+
         try{
 
             SerialPort[] portNames = SerialPort.getCommPorts();
