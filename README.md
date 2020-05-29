@@ -5,4 +5,4 @@ The figure bellow is showing the ui of the app
 <img src = "out/artifacts/serial_reciever_jar/Images/UI.JPG" height = 200>
 
 <br>
-this can use for debug your hardware which is communicate with PC over serial port. 
+This can use for debug your hardware which is communicate with PC over serial port with the baudRate of 9600. 
